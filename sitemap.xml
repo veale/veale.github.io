@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://michae.lv/</loc>
+    <lastmod>2018-02-20T11:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michae.lv/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>http://michae.lv/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://michae.lv/posts/dpbd/</loc>
+    <lastmod>2018-02-20T11:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michae.lv/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://michae.lv/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michae.lv/tags/config/</loc>
+  </url>
+  
+  <url>
+    <loc>http://michae.lv/authors/michaelveale/</loc>
+    <lastmod>2018-02-20T11:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michae.lv/tags/og/</loc>
+  </url>
+  
+  <url>
+    <loc>http://michae.lv/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michae.lv/posts/</loc>
+    <lastmod>2018-02-20T11:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michae.lv/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

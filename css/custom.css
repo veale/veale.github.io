@@ -1,0 +1,10 @@
+/* Custom CSS */
+
+@font-face {
+    font-family: 'plex';
+    src: url(../fonts/IBMPlexSans-Regular-Latin1.woff2) format('woff2');
+}
+
+div {
+    font-family: 'plex';
+}
