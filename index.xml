@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://michae.lv/publications/</guid>
-      <description>2018  Veale M., Van Kleek M., &amp;amp; Binns R. (2018). Fairness and accountability design needs for algorithmic support in high-stakes public sector decision-making. Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI&amp;rsquo;18). [mirror]   We interviewed 27 public sector, machine learning practitioners about how they cope with challenges of fairness and accountability. Their problems are often different from those in FAT/ML research so far, including internal gaming, changing data distributions and inter-departmental communication, how to augment model outputs and how to transmit hard-won social practices.</description>
+      <description>2018  Kilbertus N., Gascón A., Kusner M., Veale M., Gummadi K.P., Weller A. (2018) Blind Justice: Fairness with Encrypted Sensitive Attributes Proceedings of the 35th International Conference on Machine Learning (ICML 2018), Stockholm, Sweden, PMLR 80.   Where &amp;lsquo;debiasing&amp;rsquo; approaches are appropriate, they assume modellers have access to often highly sensitive protected characteristics. We show how, using secure multi-party computation, a regulator and a modeller can build and verify a &amp;lsquo;fair&amp;rsquo; model without ever seeing these characteristics, and can verify decisions were taken using a given &amp;lsquo;fair&amp;rsquo; model.</description>
     </item>
     
     <item>
