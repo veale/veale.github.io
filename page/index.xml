@@ -15,8 +15,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://michae.lv/publications/</guid>
-      <description>2018  Veale M., Binns R., &amp;amp; Edwards L. (2018). Algorithms That Remember: Model Inversion Attacks and Data Protection Law Philosophical Transactions of the Royal Society A, doi:10.1098/rsta.2018.0083 [mirror]   Recent &amp;lsquo;model inversion&amp;rsquo; attacks from the information security literature indicate that machine learning models might be personal data, as they might leak data used to train them. We analyse these attacks and discuss their legal implications.
-  Kilbertus N.</description>
+      <description>2018  Kilbertus N., Gascón A., Kusner M., Veale M., Gummadi K.P., Weller A. (2018) Blind Justice: Fairness with Encrypted Sensitive Attributes Proceedings of the 35th International Conference on Machine Learning (ICML 2018), Stockholm, Sweden, PMLR 80.   Where &amp;lsquo;debiasing&amp;rsquo; approaches are appropriate, they assume modellers have access to often highly sensitive protected characteristics. We show how, using secure multi-party computation, a regulator and a modeller can build and verify a &amp;lsquo;fair&amp;rsquo; model without ever seeing these characteristics, and can verify decisions were taken using a given &amp;lsquo;fair&amp;rsquo; model.</description>
     </item>
     
     <item>
