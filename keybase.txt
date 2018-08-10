@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/mrv
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://michae.lv
+  * I am mrv (https://keybase.io/mrv) on keybase.
+  * I have a public key with fingerprint 0DF3 1E33 8906 EC30 518E  114C F999 9D93 516C 7511
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018e71641c075e74726bfd98c77b52ad81331cffbff8bfe48f9700a6af05b6178f0a",
+      "fingerprint": "0df31e338906ec30518e114cf9999d93516c7511",
+      "host": "keybase.io",
+      "key_id": "f9999d93516c7511",
+      "kid": "010119eb4f941beea90e49d01d2aff7463c07cd05e54c720455c40aa1c510a20e2d80a",
+      "uid": "94274e74a489ca60dd6969c92a505219",
+      "username": "mrv"
+    },
+    "service": {
+      "hostname": "michae.lv",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1533908517,
+  "expire_in": 157680000,
+  "prev": "6b9185771c58c39b8182e42fe97c523f205dbf4c772784e52bd505665ac79781",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUmtoVEcY3dRoY0paV/BVicEb1BaWOHPvnTszW7Rgg0hJWxZKqwa6znNzcbN3
+s/dmqy5KqYiNFLG1b9BapdBWGhVfhVgRBMUoamyDQvzT+tZSWiNGSzTODQ390/kz
+zJlzzvedj29L3bhEbdXDL7dtzeQ7k1Wnb/FEa/tnqYrFA7naSleslWr0Unmpwii7
+0pdW2gIQQKIw9FwoAEYKu9j2uJaUCIw5spkk0HGg0JprTbhWLtEUA8A8pgHiHsRE
+A2alLO0XcqpULPmFKLaV2oHKcQgFnhIOQKYIhK7Q1BxJHQQ9gRGERtgWhLHCNMdZ
+qJr8wGDmkR1t73/4//UNqeKupi7kSjEKlEslgNJmWmPXc0wcIQFSyBXYBi5CwgWM
+QYEgYDZQtiSjfXeO2lHXxq4Jz1xCBfOAlB71qKA2QwDZkMbEUJUKrF0ZdnupbK1N
+WQYo+0LFM41DjH36oo2ppnzZaIqlIApEkDdwWxQVw3Qsi1YXY967imf/dchyvyDN
+/IyirEqhHxSsNDRMEfmxJUSOQwFBEKcstarol1TWjxkIewSYE9dRZWPpcQoJwtiE
+JMKhGU4gsZVra0WxQLajbYAk12Yg2MbEVcjm0uTzPMQEppjE4w1VRyGw0o5xjVjO
+mIZ+rsCizpKy1tZ2VTnViaraRP3U2dV1g7Ocrgl/gMzmZMvY0o1/Kt64RO3ESWPI
+nA1Pj6ie79fPfmbzN3oaeaGv5sM5587cm/nW7RPNjTWhTP98qO+7d7bun/nVe9kf
+7+xe1rRsT65j4Y3gytzJbwSPHrX+vqqB3O0FH3904Cof31G880Hf9ZMXby4ZQd2/
+9mZafutv7C23XBhcynqezzcvfaXy55FdBzfkmruPb2evD5zy7q9b8s/9xdfAhOn1
+a64ky41NO44cl4Mktb//xdf++snZRC9XD7365rqB+RdDa++zi3sGLHh+Z8OW4Zcr
+Mw5N7u5/8O3pH7bTmhW8qzXZ+UmufdEvlz5/aWiF2Ph1w8Y1ezJTcn+rk0n//X1H
+d789/dqNq1MXPBweqf90eN7Q8oXPnd226ID1+HDdF8cqTwA=
+=wxIs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrv
+
+==================================================================
