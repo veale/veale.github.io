@@ -15,8 +15,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://michae.lv/publications/</guid>
-      <description>2018  Veale M., Binns R., &amp;amp; Edwards L. (2018). Algorithms That Remember: Model Inversion Attacks and Data Protection Law Philosophical Transactions of the Royal Society A, doi:10.1098/rsta.2018.0083 [mirror]   Recent &amp;lsquo;model inversion&amp;rsquo; attacks from the information security literature indicate that machine learning models might be personal data, as they might leak data used to train them. We analyse these attacks and discuss their legal implications.
-  Kilbertus N.</description>
+      <description>2019  Veale M. &amp;amp; Brass I. (2019) Administration by Algorithm? Public Management meets Public Sector Machine Learning. In: Algorithmic Regulation (K Yeung &amp;amp; M Lodge eds., Oxford University Press).
+ Delacroix S. &amp;amp; Veale M. (2019) Smart Technologies and Our Sense of Self: Going Beyond Epistemic Counter-Profiling. In: Law and Life in the Era of Data-Driven Agency (K O&amp;rsquo;Hara &amp;amp; M Hildebrandt eds., Edward Elgar).
+  2018  Veale M.</description>
     </item>
     
     <item>
@@ -25,9 +26,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://michae.lv/talks/</guid>
-      <description>“Fairness and Accountability Design Needs for Algorithmic Support in High-Stakes Public Sector Decision-Making .” ACM Conference on Human Factors in Computing Systems — CHI’18, Montreal, Canada. April 2018
- “Better Seen and Note (Over)heard? Automatic Lipreading Systems and Privacy in Public Spaces”, BILETA, Aberdeen, 10 March 2018
- “Eavesdropping whilst you’re shopping: Balancing Personalisation and Privacy in Connected Retail Spaces”. “Living in the IoT” IET PETRAS Conference 2018. 28 February 2018</description>
+      <description>“Explainable Machine Learning is Often More Complex and Less Helpful Than You Might Think: Lessons from the Law, Lab and the Office”, keynote at Explainable AI — Transparency and Accountability in a Data-Driven Society, Aarhus University, 8 April 2019.
+ “Responsible Machine Learning and EU Data Protection Law”, Privacy, Power &amp;amp; Ethics Conference, Institute for Privacy Protection, Seton Hall Law School, New Jersey, 4-5 April 2019.
+ “Insecurity by Design in Real Time Bidding”, Information Commissioner’s Office AdTech Fact Finding Forum, London, 6 March 2019.</description>
     </item>
     
   </channel>
